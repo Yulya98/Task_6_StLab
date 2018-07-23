@@ -1,0 +1,12 @@
+import  '../Resources/block_page_first.png';
+import  '../Resources/block_page_second.png';
+import  '../Resources/block_page_third.png';
+import  '../Resources/Info.png';
+import  '../Resources/page.png';
+import  '../Resources/page.jpg';
+import  '../Resources/pencil_icon.png';
+import  '../Resources/people_icon.png';
+import  '../Resources/spanner_icon.png';
+import '../sass/style.sass';
+import '../postcss/stylesIn.css';
+//допили less

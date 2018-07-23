@@ -9,6 +9,7 @@ gulp.task('sass', function() { // Создаем таск "sass"
 
 gulp.task('watch', function() {
     gulp.watch(['sass/**/*.sass', 'sass/**/*.scss'], ['sass']); // Наблюдение за sass файлами в папке sass
+    gulp.watch('./postcss/stylesIn.css', ['postcss']); // Наблюдение за sass файлами в папке sass
 });
 
 gulp.task('default', ['watch']);
@@ -31,6 +32,7 @@ gulp.task('postcss', function () {
         .pipe(gulp.dest('./postcss/'));
 });
 
-gulp.task('watch_postcss', function() {
-    gulp.watch('./postcss/stylesIn.css', ['postcss']); // Наблюдение за sass файлами в папке sass
-});
+// gulp.task('watch_postcss', function() {
+//     gulp.watch('./postcss/stylesIn.css', ['postcss']); // Наблюдение за sass файлами в папке sass
+// });
+
