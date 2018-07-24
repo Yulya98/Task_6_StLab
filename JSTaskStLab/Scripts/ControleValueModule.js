@@ -25,6 +25,6 @@ class ControlValue {
         }
         return true;
     }
-};
+}
 
-export
+module.export = ControlValue;
