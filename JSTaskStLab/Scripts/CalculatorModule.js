@@ -1,3 +1,4 @@
+import Calculator from "./CalculatorBaseTemplateModule";
 
 const OPERATIONPLUS = "plus";
 const OPERATIONMINUS = "minus";
@@ -113,9 +114,7 @@ class CalculatorModule {
             if (!CalculatorModule.checkType(obj))
                 throw new Error("Argument mast be number");
             return Math.pow(obj[1], obj[2]);
-        } catch {
-            e;
-        }
+        } catch(e)
         {
             alert(e.message);
         }
@@ -208,10 +207,11 @@ class CalculatorModule {
     }
 }
 
-var Singleton = (function() {
-    var instance;
+let Singleton = (function() {
+    let instance;
 
     function createInstance() {
+
         let cacheFunction = {};
         let cacheValue = {};
         let calculator = new CalculatorModule(cacheValue, cacheFunction);
@@ -245,6 +245,7 @@ var Singleton = (function() {
     };
 })();
 
-module.export = Singleton;
+export default Singleton;
 
-import ControlValue from './ControleValueModule.js';
+
+import ControlValue from './ControleValueBaseTemplate.js';

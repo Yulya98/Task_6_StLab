@@ -10,5 +10,7 @@ import './TextFormatterModule.js';
 
 import  './CalculatorBaseTemplateModule.js';
 
-import  './BinaryOperationModule.js';
+import BinaryOperations from  './BinaryOperationModule.js';
+
+import './RegistrEvent.js';
 

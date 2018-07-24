@@ -121,6 +121,6 @@ class SortMas {
     }
 }
 
-module.exports = SortMas;
+export default  SortMas;
 
 import ControlValue from './ControleValueModule.js';

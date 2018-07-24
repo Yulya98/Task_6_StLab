@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <script src="Scripts/Task_7_7+(ES6).js"></script>
+    <script src="dist/bundle.js"></script>
 </head>
 <body>
 <label><br>Task 7 and 7+:</br>
@@ -24,10 +24,10 @@
         <option value="division">/</option>
         <option value="exponentiation">^</option>
     </select>
-    <input type="button" onclick="Singleton.getInstance().selectOperation(document.getElementById('firstNum'),document.getElementById('secondNum'),document.getElementById('s5').value, document.getElementById('result'),document.getElementById('errorFirstNum'),document.getElementById('errorSecondNum'))" value="Call built-in function">
+    <input type="button" id="buttonResultInitialFunc" value="Call built-in function">
     <select name="town" id="s7">
     </select>
-    <input type="button" onclick="Singleton.getInstance().callFunction(new Array(document.getElementById('s7').value),document.getElementById('firstNum'),document.getElementById('secondNum'), document.getElementById('result'),document.getElementById('errorFirstNum'),document.getElementById('errorSecondNum'))" value="Call custom function">
+    <input type="button" id="buttonResultCustomFunction" value="Call custom function">
 </form>
 </br>
 
@@ -38,7 +38,7 @@
 <br>
 <form>
     <input type="text" id="newFunction">
-    <input type="button" onclick="Singleton.getInstance().definitionFunction(document.getElementById('newFunction').value.split(' '),true,document.getElementById('s7'))" value="Definition new function">
+    <input type="button" id="definitionButton" value="Definition new function">
 </form>
 </br>
 </body>

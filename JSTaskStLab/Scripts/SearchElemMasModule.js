@@ -142,6 +142,6 @@ class SearchElemMasModule {
     }
 }
 
-module.exports = SearchElemMasModule;
+export default SearchElemMasModule;
 
 import ControlValue from './ControleValueModule.js';

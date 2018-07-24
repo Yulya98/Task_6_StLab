@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <script src="dist/bundle.js"></script>
+    <script src="gulp/js/all.js"></script>
 </head>
 <body>
 <label><br>Task 1) Enter thr array (through a space)</br></label>
@@ -17,7 +17,7 @@
         <option value="ascendingSequenceMas">Ascending sequence of array</option>
     </select>
     <input type="text" id="resultSearchMas" value="Result">
-    <input type="button" onclick="new SearchElemMas(document.getElementById('initialMasForSearch'),document.getElementById('s3').value,document.getElementById('errorInputMasForSearch'),document.getElementById('resultSearchMas')).selectFunctionSearch()" value="ok">
+    <input type="button" id="buttonSearchElemMas"  value="ok">
 </form>
 </br>
 <br><label>Task 2)</label></br>
@@ -33,7 +33,7 @@
         <option value="MStoDate">MS to Date(YYYY-MM-DD)</option>
         <option value="DateToMS">Date to MS</option>
     </select>
-    <input type="button" onclick="new DateFormatter(document.getElementById('date'), document.getElementById('s1').value).selectParseTemplate()" value="ok">
+    <input type="button" id="buttonDateFormatter" value="ok">
 </form>
 </br>
 <label><br>Task 3)</br>
@@ -51,7 +51,7 @@
         <label>Max rows: <input type="text" id="maxRows"></label>
         <span style="display: none" id="errorColumnsCount"></span>
         <label>Max count char: <input type="text" id="maxColumns"></label>
-        <input type="button" onclick="new TextFormatter(document.getElementById('maxRows'),document.getElementById('maxColumns'),document.getElementById('text'),document.getElementById('s6').value,document.getElementById('errorRowsCount'),document.getElementById('errorColumnsCount'),document.getElementById('textResult')).changeTextFormatter()" value="ok">
+        <input type="button" id="TextFormatter" value="ok">
     </form>
     </br>
 </label>
@@ -71,7 +71,7 @@
         <option value="division">/</option>
         <option value="exponentiation">^</option>
     </select>
-    <input type="button" onclick="Calculator.selectOperation(document.getElementById('firstNum'), document.getElementById('secondNum'), document.getElementById('s5').value,document.getElementById('result'),document.getElementById('errorFirstNum'),document.getElementById('errorSecondNum'))" value="ok">
+    <input id="selectOperations" type="button" value="ok">
     </br>
 </form>
 </br>
@@ -87,7 +87,7 @@
             <option value="selectionSort">Selection Sort</option>
             <option value="bubbleSort">Bubble Sort</option>
         </select>
-        <input type="button" onclick="new SortMas(document.getElementById('initialMasForSort'),document.getElementById('s2').value,document.getElementById('errorInitialMas'),document.getElementById('resultMasSort')).selectFunctionSort()" value="ok">
+        <input type="button" id="sortButton" value="ok">
     </form>
     </br>
 </label>
@@ -101,7 +101,7 @@
             <option value="convertToBin" >Convert to bin</option>
             <option value="convertToDesc">Convert to desc</option>
         </select>
-        <input type="button" onclick=" new BinaryOperations(document.getElementById('numToConvert'),document.getElementById('s7').value,document.getElementById('errorNumToConvert'),document.getElementById('resultConvert')).selectOperation()" value="ok">
+        <input type="button" id="buttonBinary" value="ok">
     </form>
     </br>
 </label>

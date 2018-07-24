@@ -85,6 +85,6 @@ class TextFormatter {
     }
 }
 
-module.exports = TextFormatter;
+export default TextFormatter;
 
 import ControlValue from './ControleValueModule.js';

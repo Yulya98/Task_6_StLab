@@ -97,6 +97,6 @@ class Calculator {
     }
 }
 
-module.exports = Calculator;
+export default Calculator;
 
-import ControlValue from './ControleValueModule.js';
+import ControlValue from './ControleValueBaseTemplate.js';

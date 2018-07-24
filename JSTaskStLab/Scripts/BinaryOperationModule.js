@@ -60,6 +60,6 @@ class BinaryOperations {
     }
 }
 
-module.export = BinaryOperations;
+export default  BinaryOperations;
 
 import ControlValue from './ControleValueModule.js';
