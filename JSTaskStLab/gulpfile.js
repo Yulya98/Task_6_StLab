@@ -1,6 +1,6 @@
-var gulp = require('gulp'), // Сообственно Gulp JS
-    uglify = require('gulp-uglify-es').default; // Минификация JS
-    concat = require('gulp-concat'); // Склейка файлов
+var gulp = require('gulp'),
+    uglify = require('gulp-uglify-es').default;
+    concat = require('gulp-concat');
     babel = require('gulp-babel');
 
 gulp.task('firstTask', function() {
@@ -14,10 +14,12 @@ gulp.task('firstTask', function() {
         './Scripts/SortMasModule.js',
         './Scripts/TextFormatterModule.js'
     ])
-        .pipe(babel())
+        .pipe(babel({
+            presets:['es2015']
+        }))
         .pipe(concat('all.js'))
         .pipe(uglify())
-        .pipe(gulp.dest('./gulp/js/')) //
+        .pipe(gulp.dest('./gulp/js/'))
 });
 
 gulp.task('secondTask', function() {

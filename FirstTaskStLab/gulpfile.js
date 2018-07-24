@@ -1,15 +1,15 @@
-var gulp = require('gulp'), // Подключаем Gulp
-    sass = require('gulp-sass'); // Подключаем Sass пакет
+var gulp = require('gulp'),
+    sass = require('gulp-sass');
 
 gulp.task('sass', function() { // Создаем таск "sass"
-    return gulp.src(['sass/**/*.sass', 'sass/**/*.scss']) // Берем источник
-        .pipe(sass({outputStyle: 'expanded'}).on('error', sass.logError)) // Преобразуем Sass в CSS посредством gulp-sass
-        .pipe(gulp.dest('sass')) // Выгружаем результата в папку css
+    return gulp.src(['sass/**/*.sass', 'sass/**/*.scss'])
+        .pipe(sass({outputStyle: 'expanded'}).on('error', sass.logError))
+        .pipe(gulp.dest('sass'))
 });
 
 gulp.task('watch', function() {
-    gulp.watch(['sass/**/*.sass', 'sass/**/*.scss'], ['sass']); // Наблюдение за sass файлами в папке sass
-    gulp.watch('./postcss/stylesIn.css', ['postcss']); // Наблюдение за sass файлами в папке sass
+    gulp.watch(['sass/**/*.sass', 'sass/**/*.scss'], ['sass']);
+    gulp.watch('./postcss/stylesIn.css', ['postcss']);
 });
 
 gulp.task('default', ['watch']);
@@ -31,8 +31,3 @@ gulp.task('postcss', function () {
         .pipe(rename('styleOut.css'))
         .pipe(gulp.dest('./postcss/'));
 });
-
-// gulp.task('watch_postcss', function() {
-//     gulp.watch('./postcss/stylesIn.css', ['postcss']); // Наблюдение за sass файлами в папке sass
-// });
-
