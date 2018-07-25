@@ -762,5 +762,3 @@ var binaryOperations = (function() {
     selectOperation: selectOperation
   };
 })();
-
-//#endregion

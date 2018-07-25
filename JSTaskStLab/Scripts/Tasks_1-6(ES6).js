@@ -1,16 +1,15 @@
 "use strict";
 
-import './SortMasModule.js';
+import "./SortMasModule.js";
 
-import './DataFormatterModule.js';
+import "./DataFormatterModule.js";
 
-import './SearchElemMasModule.js';
+import "./SearchElemMasModule.js";
 
-import './TextFormatterModule.js';
+import "./TextFormatterModule.js";
 
-import  './CalculatorBaseTemplateModule.js';
+import "./CalculatorBaseTemplateModule.js";
 
-import BinaryOperations from  './BinaryOperationModule.js';
+import BinaryOperations from "./BinaryOperationModule.js";
 
-import './RegistrEvent.js';
-
+import "./RegistrEvent.js";

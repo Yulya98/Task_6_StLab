@@ -1,5 +1,3 @@
 "use strict";
 
-import './CalculatorModule';
-
-
+import "./CalculatorModule";

@@ -249,5 +249,3 @@ var calculator = (function() {
     );
   }
 })();
-
-//#endregion
