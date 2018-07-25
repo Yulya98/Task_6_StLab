@@ -3,6 +3,8 @@ const SELECTTEXTFORMATWORDWRAP = "wordWrap";
 const SELECTTEXTFORMATSENTENCEWRAP = "sentenceWrap";
 const WITHOUTWRAP = "withoutWrap";
 
+import ControlValue from "./ControleValueModule.js";
+
 class TextFormatter {
   constructor(
     maxRows,
@@ -87,4 +89,3 @@ class TextFormatter {
 
 export default TextFormatter;
 
-import ControlValue from "./ControleValueModule.js";

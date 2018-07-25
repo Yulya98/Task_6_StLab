@@ -1,5 +1,7 @@
 "use strict";
 
+import "./RegistrEvent.js";
+
 import "./SortMasModule.js";
 
 import "./DataFormatterModule.js";
@@ -12,4 +14,3 @@ import "./CalculatorBaseTemplateModule.js";
 
 import BinaryOperations from "./BinaryOperationModule.js";
 
-import "./RegistrEvent.js";

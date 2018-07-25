@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="433914d4-8351-459a-b1df-18e6f01393ac" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/FirstTaskStLab/less/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/FirstTaskStLab/less/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstTaskStLab/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/FirstTaskStLab/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstTaskStLab/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstTaskStLab/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstTaskStLab/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstTaskStLab/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstTaskStLab/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/FirstTaskStLab/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(ES6).html" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(ES6).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/Scripts/CalculatorBaseTemplateModule.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/Scripts/CalculatorBaseTemplateModule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/Scripts/CalculatorModule.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/Scripts/CalculatorModule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/Scripts/ControleValueModule.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/Scripts/ControleValueModule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/Scripts/RegistrEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/Scripts/RegistrEvent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/Scripts/SearchElemMasModule.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/Scripts/SearchElemMasModule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/Scripts/SortMasModule.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/Scripts/SortMasModule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/Scripts/Tasks_1-6(ES6).js" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/Scripts/Tasks_1-6(ES6).js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/Scripts/TextFormatterModule.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/Scripts/TextFormatterModule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/gulp/js/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/gulp/js/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSTaskStLab/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSTaskStLab/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,43 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstTaskStLab/sass/style.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JSTaskStLab(EcmaScript_2015).html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(EcmaScript_2015).html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="stylesIn.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstTaskStLab/postcss/stylesIn.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstTaskStLab/less/styles.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="JSTaskStLab(ES6).html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(ES6).html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="98" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+            <state relative-caret-position="374">
+              <caret line="22" column="31" lean-forward="true" selection-end-line="108" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -60,35 +46,79 @@
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JSTaskStLab/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            <state relative-caret-position="255">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styleOut.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstTaskStLab/postcss/styleOut.css">
+      <file leaf-file-name="Task_7_7+(ES6).js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/Task_7_7+(ES6).js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstTaskStLab/webpack.config.js">
+      <file leaf-file-name="Task_7_7+(ES6).html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSTaskStLab/Task_7_7+(ES6).html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="425">
+              <caret line="42" column="5" lean-forward="true" selection-end-line="44" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstTaskStLab/src/index.js">
+        <entry file="file://$PROJECT_DIR$/JSTaskStLab/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSTaskStLab(Gulp).html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(Gulp).html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task_7_7+(Gulp).html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSTaskStLab/Task_7_7+(Gulp).html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task_7_7+(EcmaScript_2015).html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSTaskStLab/Task_7_7+(EcmaScript_2015).html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Tasks_1-6(ES6).js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/Tasks_1-6(ES6).js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <element signature="e#15#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSTaskStLab/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -99,9 +129,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="HTML4 File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML4 File" />
       </list>
     </option>
   </component>
@@ -124,9 +154,10 @@
       <find>catch</find>
       <find>RegistrEvent</find>
       <find>export</find>
-      <find>exports</find>
-      <find>_ControleValueModule2</find>
       <find>checkVa</find>
+      <find>_ControleValueModule2</find>
+      <find>_interopRequireDefault</find>
+      <find>exports</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -135,8 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FirstTaskStLab/style.css" />
-        <option value="$PROJECT_DIR$/FirstTaskStLab/css/1.html" />
         <option value="$PROJECT_DIR$/FirstTaskStLab/css/1.css" />
         <option value="$PROJECT_DIR$/FirstTaskStLab/css/style.css" />
         <option value="$PROJECT_DIR$/FirstTaskStLab/less/styles.css" />
@@ -155,18 +184,22 @@
         <option value="$PROJECT_DIR$/JSTaskStLab/Task_7_7+(ES6).html" />
         <option value="$PROJECT_DIR$/JSTaskStLab/dist/bundle.js" />
         <option value="$PROJECT_DIR$/JSTaskStLab/gulp.js" />
-        <option value="$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(ES6).html" />
         <option value="$PROJECT_DIR$/JSTaskStLab/.baberlic" />
         <option value="$PROJECT_DIR$/FirstTaskStLab/HomePage(webpack).html" />
-        <option value="$PROJECT_DIR$/FirstTaskStLab/sass/style.sass" />
         <option value="$PROJECT_DIR$/FirstTaskStLab/gulpfile.js" />
         <option value="$PROJECT_DIR$/JSTaskStLab/gulpfile.babel.js" />
-        <option value="$PROJECT_DIR$/JSTaskStLab/package.json" />
-        <option value="$PROJECT_DIR$/JSTaskStLab/.babelrc" />
         <option value="$PROJECT_DIR$/JSTaskStLab/src/index.js" />
-        <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/Tasks_1-6(ES6).js" />
-        <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/TextFormatterModule.js" />
         <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/Task_7_7+(ES6).js" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/Tasks_1-6(ES_2015).js" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/Task_7_7+(ES_2015).js" />
+        <option value="$PROJECT_DIR$/FirstTaskStLab/postcss/styleOut.css" />
+        <option value="$PROJECT_DIR$/FirstTaskStLab/postcss/stylesIn.css" />
+        <option value="$PROJECT_DIR$/FirstTaskStLab/less/styles.less" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/webpack.config.js" />
+        <option value="$PROJECT_DIR$/FirstTaskStLab/src/index.js" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/gulp/js/all.js" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/.babelrc" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/TextFormatterModule.js" />
         <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/SortMasModule.js" />
         <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/SearchElemMasModule.js" />
         <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/RegistrEvent.js" />
@@ -176,15 +209,14 @@
         <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/CalculatorModule.js" />
         <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/CalculatorBaseTemplateModule.js" />
         <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/BinaryOperationModule.js" />
-        <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/Tasks_1-6(ES_2015).js" />
-        <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/Task_7_7+(ES_2015).js" />
-        <option value="$PROJECT_DIR$/FirstTaskStLab/postcss/styleOut.css" />
-        <option value="$PROJECT_DIR$/FirstTaskStLab/postcss/stylesIn.css" />
-        <option value="$PROJECT_DIR$/FirstTaskStLab/less/styles.less" />
-        <option value="$PROJECT_DIR$/JSTaskStLab/webpack.config.js" />
-        <option value="$PROJECT_DIR$/JSTaskStLab/gulpfile.js" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/Scripts/Tasks_1-6(ES6).js" />
+        <option value="$PROJECT_DIR$/FirstTaskStLab/sass/style.sass" />
         <option value="$PROJECT_DIR$/FirstTaskStLab/webpack.config.js" />
-        <option value="$PROJECT_DIR$/FirstTaskStLab/src/index.js" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/package.json" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/gulpfile.js" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(ES6).html" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(Gulp).html" />
+        <option value="$PROJECT_DIR$/JSTaskStLab/Task_7_7+(Gulp).html" />
       </list>
     </option>
   </component>
@@ -235,7 +267,9 @@
       <path value="$PROJECT_DIR$/JSTaskStLab/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="171" />
+    <option name="y" value="154" />
     <option name="width" value="1378" />
     <option name="height" value="780" />
   </component>
@@ -245,64 +279,48 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="init" type="b2602c69:ProjectViewProjectNode" />
-              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="Task_6_StLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Task_6_StLab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="init" type="b2602c69:ProjectViewProjectNode" />
-              <item name="init" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstTaskStLab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="init" type="b2602c69:ProjectViewProjectNode" />
-              <item name="init" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstTaskStLab" type="462c0819:PsiDirectoryNode" />
-              <item name="less" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="init" type="b2602c69:ProjectViewProjectNode" />
-              <item name="init" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstTaskStLab" type="462c0819:PsiDirectoryNode" />
-              <item name="postcss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="init" type="b2602c69:ProjectViewProjectNode" />
-              <item name="init" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstTaskStLab" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="init" type="b2602c69:ProjectViewProjectNode" />
-              <item name="init" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstTaskStLab" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="init" type="b2602c69:ProjectViewProjectNode" />
-              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="Task_6_StLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Task_6_StLab" type="462c0819:PsiDirectoryNode" />
               <item name="JSTaskStLab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="init" type="b2602c69:ProjectViewProjectNode" />
-              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="Task_6_StLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Task_6_StLab" type="462c0819:PsiDirectoryNode" />
               <item name="JSTaskStLab" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="init" type="b2602c69:ProjectViewProjectNode" />
-              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="Task_6_StLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Task_6_StLab" type="462c0819:PsiDirectoryNode" />
+              <item name="JSTaskStLab" type="462c0819:PsiDirectoryNode" />
+              <item name="gulp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task_6_StLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Task_6_StLab" type="462c0819:PsiDirectoryNode" />
               <item name="JSTaskStLab" type="462c0819:PsiDirectoryNode" />
               <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task_6_StLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Task_6_StLab" type="462c0819:PsiDirectoryNode" />
+              <item name="JSTaskStLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,63 +399,53 @@
       <workItem from="1532338595621" duration="11490000" />
       <workItem from="1532359041369" duration="5106000" />
       <workItem from="1532418143950" duration="21996000" />
+      <workItem from="1532504078135" duration="9705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96155000" />
+    <option name="totallyTimeSpent" value="105860000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1378" height="780" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2290749" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16069546" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5036603" side_tool="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5036603" side_tool="true" visible="true" weight="0.33660132" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633968" weight="0.17003188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22396964" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633968" weight="0.17003188" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5036603" side_tool="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3289183" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633968" weight="0.3290938" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5036603" side_tool="true" weight="0.3290938" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -449,45 +457,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/JSTaskStLab/gulpfile.js</url>
-          <line>30</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/gulp.js" />
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/.baberlic" />
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1632" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/HomePage(postCSS).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/HomePage(less).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="41" column="37" selection-end-line="94" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/HomePage(sass).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="2" selection-start-column="6" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FirstTaskStLab/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -499,21 +472,6 @@
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/34a7c354767affe58033491208b72b7c.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Task_7_7+(ES6).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Task_7_7+(EcmaScript_2015).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JSTaskStLab/gulp/js/.js">
@@ -532,173 +490,6 @@
     <entry file="file://$PROJECT_DIR$/FirstTaskStLab/Resources/Info.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/3df15a0f08fa1d1444bccc60e77e437a.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/8a6564ecc671c718ed1e31b4a1286cc9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/a2ecf52515d67d2020c5900c5b483563.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/029399343f5a6b44757a9ec2194ad901.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/HomePage(webpack).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/361b5efcb8df691b620d0dcbcc135a69.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(ES6).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="98" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/gulp/js/all.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="1178" column="25" selection-start-line="1178" selection-start-column="18" selection-end-line="1178" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/Tasks_1-6(ES6).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#15#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/TextFormatterModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/Task_7_7+(ES6).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/SortMasModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="119" column="5" lean-forward="true" selection-start-line="119" selection-start-column="5" selection-end-line="119" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/SearchElemMasModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="145" column="51" selection-start-line="145" selection-start-column="51" selection-end-line="145" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/RegistrEvent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/DataFormatterModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/ControleValueModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/ControleValueBaseTemplate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/CalculatorModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/CalculatorBaseTemplateModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="99" column="26" lean-forward="true" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/BinaryOperationModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/Tasks_1-6(ES_2015).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="764" selection-start-line="764" selection-end-line="764" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/Task_7_7+(ES_2015).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="251" selection-start-line="251" selection-end-line="251" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(EcmaScript_2015).html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/FirstTaskStLab/postcss/styleOut.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -715,43 +506,261 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FirstTaskStLab/less/styles.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="187">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSTaskStLab/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/compiled/polyfill.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="-3434">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/gulp/js/all.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="335">
+          <caret line="8630" column="11" lean-forward="true" selection-start-line="8630" selection-start-column="11" selection-end-line="8630" selection-end-column="11" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/TextFormatterModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/Tasks_1-6(ES_2015).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="764" selection-start-line="764" selection-end-line="764" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/Task_7_7+(ES_2015).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="251" selection-start-line="251" selection-end-line="251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/SortMasModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="791">
+          <caret line="125" column="23" selection-start-line="125" selection-start-column="23" selection-end-line="125" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/SearchElemMasModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/RegistrEvent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/DataFormatterModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/ControleValueModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/ControleValueBaseTemplate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/CalculatorModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="250" column="25" selection-start-line="250" selection-start-column="25" selection-end-line="250" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/BinaryOperationModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/CalculatorBaseTemplateModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/34a7c354767affe58033491208b72b7c.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/8a6564ecc671c718ed1e31b4a1286cc9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/3df15a0f08fa1d1444bccc60e77e437a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/d3bc0c69891fc22ecfacd1881be366e1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/c4526270ec6e6f08b731a26c4558b174.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/a2ecf52515d67d2020c5900c5b483563.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/a679645e87f60915b5493ae2adebd837.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/029399343f5a6b44757a9ec2194ad901.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/dist/361b5efcb8df691b620d0dcbcc135a69.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/FirstTaskStLab/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/HomePage(webpack).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTaskStLab/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FirstTaskStLab/sass/style.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(EcmaScript_2015).html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Task_7_7+(EcmaScript_2015).html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/Tasks_1-6(ES6).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#15#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Scripts/Task_7_7+(ES6).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(ES6).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="31" lean-forward="true" selection-end-line="108" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Task_7_7+(ES6).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="42" column="5" lean-forward="true" selection-end-line="44" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/Task_7_7+(Gulp).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/JSTaskStLab(Gulp).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSTaskStLab/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JSTaskStLab/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        <state relative-caret-position="255">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>

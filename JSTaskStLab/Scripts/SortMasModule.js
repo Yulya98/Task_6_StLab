@@ -3,6 +3,8 @@ const SELECTINSERTSORT = "insertSort";
 const SELECTSELECTIONSORT = "selectionSort";
 const BUBBLESORT = "bubbleSort";
 
+import ControlValue from "./ControleValueModule.js";
+
 class SortMas {
   constructor(arr, selectValue, errorElem, resultElem) {
     this.selectValue = selectValue;
@@ -122,5 +124,3 @@ class SortMas {
 }
 
 export default SortMas;
-
-import ControlValue from "./ControleValueModule.js";

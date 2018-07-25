@@ -1,4 +1,4 @@
-import Calculator from "./CalculatorBaseTemplateModule";
+import ControlValue from "./ControleValueBaseTemplate.js";
 
 const OPERATIONPLUS = "plus";
 const OPERATIONMINUS = "minus";
@@ -249,5 +249,3 @@ let Singleton = (function() {
 })();
 
 export default Singleton;
-
-import ControlValue from "./ControleValueBaseTemplate.js";

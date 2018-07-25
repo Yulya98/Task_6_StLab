@@ -3,6 +3,8 @@ const SELECTSUMELEM_2 = "sumOfElemMasIsMax_O(n^2)";
 const SELECTSERCELEM = "searchMaxMinMediumElemMas";
 const SELECTSEQUANCEMAS = "ascendingSequenceMas";
 
+import ControlValue from "./ControleValueModule.js";
+
 class SearchElemMasModule {
   constructor(arr, selectValue, errorElem, resultElem) {
     this.arrElem = arr;
@@ -143,4 +145,3 @@ class SearchElemMasModule {
 
 export default SearchElemMasModule;
 
-import ControlValue from "./ControleValueModule.js";

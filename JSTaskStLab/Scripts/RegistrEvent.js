@@ -1,3 +1,17 @@
+import BinaryOperations from "./BinaryOperationModule";
+
+import SortMas from "./SortMasModule";
+
+import SearchElemMas from "./SearchElemMasModule";
+
+import Calculator from "./CalculatorBaseTemplateModule";
+
+import TextFormatter from "./TextFormatterModule";
+
+import DateFormatter from "./DataFormatterModule";
+
+import Singleton from "./CalculatorModule";
+
 export default (window.onload = function() {
   if (document.getElementById("buttonBinary")) {
     document.getElementById("buttonBinary").onclick = function() {
@@ -82,16 +96,3 @@ export default (window.onload = function() {
   }
 });
 
-import BinaryOperations from "./BinaryOperationModule";
-
-import SortMas from "./SortMasModule";
-
-import SearchElemMas from "./SearchElemMasModule";
-
-import Calculator from "./CalculatorBaseTemplateModule";
-
-import TextFormatter from "./TextFormatterModule";
-
-import DateFormatter from "./DataFormatterModule";
-
-import Singleton from "./CalculatorModule";

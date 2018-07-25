@@ -4,6 +4,8 @@ const OPERATIONCOMPOSITION = "composition";
 const OPERATIONDIVISION = "division";
 const OPERATIONEXPONATION = "exponentiation";
 
+import ControlValue from "./ControleValueBaseTemplate.js";
+
 class Calculator {
   static selectOperation(
     a,
@@ -98,5 +100,3 @@ class Calculator {
 }
 
 export default Calculator;
-
-import ControlValue from "./ControleValueBaseTemplate.js";
